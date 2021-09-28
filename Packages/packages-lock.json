@@ -1,13 +1,5 @@
 {
   "dependencies": {
-    "com.aniruddhahar.unity-autosave": {
-      "version": "file:com.aniruddhahar.unity-autosave",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.editorcoroutines": "1.0.0"
-      }
-    },
     "com.unity.2d.animation": {
       "version": "5.0.6",
       "depth": 0,
@@ -87,13 +79,6 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.0"
       },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.editorcoroutines": {
-      "version": "1.0.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
